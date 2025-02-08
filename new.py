@@ -1,3 +1,5 @@
-x=5
-y=56
+x=5  
+y=567
+
 s=6
+priiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
